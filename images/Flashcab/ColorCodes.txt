@@ -1,0 +1,8 @@
+Primary color - #ffb246
+Secondary colors - #8f9dca (lite blue)
+				#d4d261 (lite skin)
+				#ee73aa (lite pink)
+
+others - #bfc201 (yellow type)
+		#e6007e (pink)
+		#5171ae (Blue)
