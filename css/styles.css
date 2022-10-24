@@ -1077,6 +1077,10 @@ input[type='checkbox'] {
 	margin-left: 3.125rem;
 }
 
+.authenticity{
+	width: 100%;
+}
+
 
 /*************************/
 /*     09. Details 2     */
